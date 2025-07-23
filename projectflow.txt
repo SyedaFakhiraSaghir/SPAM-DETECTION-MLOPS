@@ -6,3 +6,4 @@ building pipeline
 
 setting up dvc pipeline (without params)
 5. create dvc.yaml and stages to it.
+6. dvc init then do dvc repro to test the pipeline automation.()
